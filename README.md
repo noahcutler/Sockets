@@ -1,0 +1,1 @@
+This repo is for network programming using the sockets api. Be gentle, I'm learnin' here.

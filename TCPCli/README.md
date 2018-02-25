@@ -1,0 +1,1 @@
+Simple TCP Client connects to TCP Server from /TCPServ. connects and recieves data
